@@ -5,7 +5,7 @@
 
 ## Run docker images
 
-```docker run -p 8000:8080 kumarm5/jenkindockerwebapp```
+```docker run -p 8000:8000 kumarm5/jenkindockerwebapp```
 
 ## Browse at
 
